@@ -61,7 +61,7 @@ Mathemateroids is an implementation of Asteroids in *Mathematica* using my DuckS
 
 ![gameplay](mathemateroids/capture.png)
 
-(Also see this [video](mathemateroids/gameplay.webm) that can be opened in Chrome)
+(Also see this [video](mathemateroids/gameplay.webm) which can be opened in Chrome)
 
 The code comprises a simple game engine (sceneManager.m, gameObject.m, interfaces.m, transform.m) and the Mathemateroids game itself (mathemateroids.m, alien.m, bullets.m, dust.m, score.m, ship.m, sprite.m, staticGraphics.m).
 
